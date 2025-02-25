@@ -1,0 +1,4 @@
+apache-beam[gcp]==2.46.0
+google-cloud-bigquery==3.3.5
+google-api-python-client==2.11.0
+google-auth==2.22.0
