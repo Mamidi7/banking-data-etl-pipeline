@@ -17,7 +17,7 @@
 - **Enterprise Observability**: Integrated with Cloud Monitoring, Logging, and Error Reporting
 - **CI/CD Ready**: GitHub Actions workflows for automated testing and deployment
 
-![Pipeline Architecture](https://via.placeholder.com/800x400.png?text=ETL+Pipeline+Architecture+Diagram)
+![Pipeline Architecture](docs/assets/images/pipeline-architecture.png))
 
 ---
 
